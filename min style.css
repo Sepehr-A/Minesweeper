@@ -1,0 +1,130 @@
+#container
+{
+    margin:0 auto;
+    border: 0 solid darkblue;
+    width: 500px;
+    height: 650px;
+    border-radius: 5px;
+    background-color: teal;
+}/* DONT CHANGE */
+
+#inp
+{
+    position: relative;
+    top: 15px;
+    height: 30px;
+    border-radius: 6px;
+    font-style: italic;
+    border: none;
+    background-color: white;
+    color: black;
+    box-shadow: none;
+}/* DONT CHANGE */
+
+#inp:hover
+{
+    border-radius: 6px;
+    font-style: italic;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    box-shadow: none;
+}/* DONT CHANGE */
+
+#tbl
+{
+    position: relative;
+    top: 105px;
+    left: 72.5px;
+}/* DONT CHANGE */
+
+td
+{
+    width: 20px;
+    background-color: coral;
+    height: 20px;
+    border: 1px solid coral;
+    border-radius: 4px;
+}/* DONT CHANGE */
+
+td:hover
+{
+    background-color: teal;
+}/* DONT CHANGE */
+
+.bombCloseimg
+{
+    text-align: center;
+    width:0;
+    height: 0;
+}/* DONT CHANGE */
+
+#bnumDiv
+{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    width: 100px;
+    height: 40px;
+}/* DONT CHANGE */
+
+#bombn
+{
+    width: 40px;
+    height: 40px;
+}/* DONT CHANGE */
+
+#stpw
+{
+    width: 40px;
+    height: 40px;
+}/* DONT CHANGE */
+
+#timer
+{
+    text-align: center;
+    position: relative;
+    top: 60px;
+    width: 100px;
+    height: 40px;
+}/* DONT CHANGE */
+
+.tropne
+{
+    /*text-align: center;*/
+    background-color: transparent;
+    height: 20px;
+    /*font-size: 20px;*/
+    width: 20px;
+}
+
+.openbomb
+{
+    margin: 0 auto;
+    position: relative;
+    top: 2.5px;
+    left: 3.5px;
+    /*text-align: center;*/
+    width: 15px;
+    height: 15px;
+}
+
+.bnac
+{
+    text-align: center;
+}
+
+.flgo
+{
+    position: relative;
+    top: 2.5px;
+    left: 3.5px;
+    width: 15px;
+    height: 15px;
+}
+
+.flgc
+{
+    width: 0px;
+    height: 0px;
+}
